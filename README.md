@@ -10,14 +10,14 @@ noindex: false
 permalink: /projects/keyboard-maestro/
 external-url:
 tags:
-- keyboard-maestro
-- productivity
-- workflows
-- macros
-- github
+  - keyboard maestro
+  - productivity
+  - workflows
+  - macros
+  - github
 category: project
-description: TODO
-keywords: TODO
+description:
+keywords:
 sharing: true
 comments: false
 footer: true
