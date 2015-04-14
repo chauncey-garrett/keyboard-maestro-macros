@@ -16,7 +16,7 @@ tags:
   - macros
   - github
 category: project
-description:
+description: Massive collection of opinionated and interdependant macros for Keyboard Maestro designed to thoughfully improve the OS X user experience. Best used with Scripts libarary.
 keywords:
 sharing: true
 comments: false
